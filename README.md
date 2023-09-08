@@ -6,6 +6,8 @@
 
 ¡Bienvenido a nuestra aplicación de gestión de tickets impulsada por inteligencia artificial! Nuestro objetivo es transformar la forma en que las empresas gestionan sus consultas y solicitudes de atención al cliente. Con la potencia de ChatGPT, automatizamos procesos y llevamos la escalabilidad empresarial a un nivel superior, superando a la competencia.🏆
 
+![WizzMail Logo](https://imgur.com/AdbYF87)
+
 **Características Destacadas**:
 
 - **Automatización Inteligente**: Gracias a la inteligencia artificial, nuestra aplicación responde eficientemente a las consultas de los clientes, reduciendo la carga de trabajo manual.

@@ -1,5 +1,7 @@
 **Título del Proyecto**: WizzMail 📩
 
+![WizzMail Logo](https://i.imgur.com/RXfNFKa.png)
+
 **Descripción**:
 
 ¡Bienvenido a nuestra aplicación de gestión de tickets impulsada por inteligencia artificial! Nuestro objetivo es transformar la forma en que las empresas gestionan sus consultas y solicitudes de atención al cliente. Con la potencia de ChatGPT, automatizamos procesos y llevamos la escalabilidad empresarial a un nivel superior, superando a la competencia.🏆
